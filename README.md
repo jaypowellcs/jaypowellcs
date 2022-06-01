@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Node JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **How I can help your company?**
 
 - 📫 How to reach me **jay.powellcs@gmail.com**
 
