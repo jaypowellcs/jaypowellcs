@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/jaypowellcs" target="blank"><img src="https://img.shields.io/twitter/follow/jaypowellcs?logo=twitter&style=for-the-badge" alt="jaypowellcs" /></a> </p>
 
-- 🔭 I’m currently working on **React-Portfolio**
+- 🔭 I’m currently working on **Ponder Properties**
 
-- 🌱 I’m currently learning **React, React Native, and Node JS**
+- 🌱 I’m currently learning **Node JS**
 
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Node JS**
 
