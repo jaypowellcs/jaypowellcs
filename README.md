@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jaypowellcs" target="blank"><img src="https://img.shields.io/twitter/follow/jaypowellcs?logo=twitter&style=for-the-badge" alt="jaypowellcs" /></a> </p>
 
-- 🔭 I’m currently working on **C# and React**
+- 🔭 I’m currently working on **ASP.Net and Angular**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
