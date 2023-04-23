@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="center">A passionate Full Stack Developer from Texas</h3>
+<h3 align="center">A passionate Full Stack Developer from Dallas/Fort Worth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypowellcs&label=Profile%20views&color=0e75b6&style=flat" alt="jaypowellcs" /> </p>
 
