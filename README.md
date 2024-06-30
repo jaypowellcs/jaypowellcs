@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Cloud**
+- 🤝 I’m looking for help with **Cloud Certificates**
 
 - 📫 How to reach me **jay.powellcs@gmail.com**
 
