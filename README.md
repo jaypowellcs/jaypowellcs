@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **.Net, Angular, Spring Boot**
+- 🌱 I’m currently learning **.Net, Angular, Blazor**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
